@@ -1,7 +1,7 @@
-                                                                                                 # Hi there, I'm R. Uday Sanjay 👋
+ # Hi there, I'm R. Uday Sanjay 👋
 ### 🤖 AI/ML Engineer | DSA Enthusiast
 
-I am a passionate **AI/ML Engineer** and **Software developer** focused on building high-accuracy computer vision models. I bridge the gap between complex deep learning architectures and functional, real-time applications.
+I am a passionate **AI/ML Engineer** and **Software Developer** focused on building high-accuracy computer vision models. I bridge the gap between complex deep learning architectures and functional, real-time applications.
 
 ---
 
